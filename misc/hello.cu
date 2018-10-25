@@ -17,3 +17,4 @@ int main(void)
 
 
 
+// nvcc -arch sm_20 hello.cu -o hello
